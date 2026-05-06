@@ -45,7 +45,7 @@ function App() {
   </span>
 </h1>
               <p className="text-white/80 text-lg md:text-xl mb-8 max-w-2xl mx-auto leading-relaxed">
-                Discover real-time weather updates with stunning visuals and accurate forecasts for cities around the globe.
+              Discover real-time weather updates with stunning visuals and accurate forecasts for cities around the globe.
               </p>
             </div>
           </div>
